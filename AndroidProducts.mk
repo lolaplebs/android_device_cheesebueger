@@ -15,9 +15,9 @@
 #
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/dot_cheeseburger.mk
+    $(LOCAL_DIR)/potato_cheeseburger.mk
 
 COMMON_LUNCH_CHOICES := \
-    dot_cheeseburger-user \
-    dot_cheeseburger-userdebug \
-    dot_cheeseburger-eng
+    potato_cheeseburger-user \
+    potato_cheeseburger-userdebug \
+    potato_cheeseburger-eng
