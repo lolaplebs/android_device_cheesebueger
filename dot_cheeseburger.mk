@@ -21,6 +21,9 @@ $(call inherit-product, $(SRC_TARGET_DIR)/product/full_base_telephony.mk)
 # Inherit from cheeseburger device
 $(call inherit-product, device/oneplus/cheeseburger/device.mk)
 
+# Official
+DOT_OFFICIAL := true
+
 # Boot Animation
 TARGET_BOOT_ANIMATION_RES := 1080
 
